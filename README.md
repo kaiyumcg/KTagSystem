@@ -4,5 +4,5 @@ Relational Tag system for unity games. So you can have cow, sahiwal and wagyu ta
 #### Installation:
 * Add an entry in your manifest.json as follows:
 ```C#
-"com.kaiyum.ktasgsystem": "https://github.com/kaiyumcg/KTagSystem.git"
+"com.kaiyum.ktagsystem": "https://github.com/kaiyumcg/KTagSystem.git"
 ```
