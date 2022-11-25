@@ -1,0 +1,17 @@
+{
+  "name": "com.kaiyum.ktagsystem",
+  "author": "Md Al Kaiyum (Rumman)",
+  "displayName": "KTagSystem",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "Hierarchial tag system",
+  "category": "Unity",
+  "keywords": [
+    "Tag system hierarchial"
+  ],
+  "dependencies": {
+	"com.kaiyum.attributeext": "https://github.com/kaiyumcg/AttributeExt.git",
+	"com.kaiyum.unityext": "https://github.com/kaiyumcg/UnityExt.git",
+	"com.textus-games.serialized-reference-ui": "https://github.com/kaiyumcg/UnitySerializedReferenceUI.git"
+  }
+}
