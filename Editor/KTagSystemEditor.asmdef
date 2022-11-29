@@ -2,7 +2,9 @@
     "name": "KTagSystemEditor",
     "rootNamespace": "",
     "references": [
-        "KTagSystem"
+        "KTagSystem",
+        "XNode",
+        "XNodeEditor"
     ],
     "includePlatforms": [
         "Editor"

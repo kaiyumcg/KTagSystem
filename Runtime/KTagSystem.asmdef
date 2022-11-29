@@ -2,9 +2,9 @@
     "name": "KTagSystem",
     "rootNamespace": "",
     "references": [
-        "UnityExt",
         "AttributeExt",
-        "Textus.SerializeReferenceUI"
+        "UnityExt",
+        "XNode"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
