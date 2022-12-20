@@ -9,7 +9,7 @@ Relational Tag system for unity games. So you can have cow, sahiwal and wagyu ta
 
 Since unity does not support git dependencies, you need the following entries as well:
 ```C#
-"com.kaiyum.attributeext" : "https://github.com/kaiyumcg/AttributeExt.git",
+"com.kaiyum.attributeext2": "https://github.com/kaiyumcg/NaughtyAttributes",
 "com.kaiyum.unityext": "https://github.com/kaiyumcg/UnityExt.git",
 "com.github.siccity.xnode": "https://github.com/siccity/xNode.git",
 "com.kaiyum.editorutil": "https://github.com/kaiyumcg/EditorUtil.git"

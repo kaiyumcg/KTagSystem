@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using AttributeExt;
+using AttributeExt2;
 
 namespace KTagSystem
 {
@@ -19,8 +19,8 @@ namespace KTagSystem
         [SerializeField] string tagName = "";
         [SerializeField] bool isPlayer = false;
         [SerializeField] List<KTag> childTags;
-        [CanNotEdit] [SerializeField] KTag parentTag;
-        [SerializeField] [CanNotEdit] ParentTreeData parentsInfo;
+        [ReadOnly] [SerializeField] KTag parentTag;
+        [SerializeField] [ReadOnly] ParentTreeData parentsInfo;
 
         public bool IsPlayer { get { return isPlayer; } }
         public string TagName { get { return tagName; } }
